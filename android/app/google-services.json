@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "927758497869",
+    "firebase_url": "https://driver-d133e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "driver-d133e",
+    "storage_bucket": "driver-d133e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927758497869:android:169cc606562c9266dc8404",
+        "android_client_info": {
+          "package_name": "com.example.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYcUqhBf1t5V_NniYC0J9FFt-p9VT1cSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927758497869:android:04452240c2c04078dc8404",
+        "android_client_info": {
+          "package_name": "com.example.users_indriver_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYcUqhBf1t5V_NniYC0J9FFt-p9VT1cSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
